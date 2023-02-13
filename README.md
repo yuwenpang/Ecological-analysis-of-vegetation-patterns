@@ -1,6 +1,6 @@
 # Ecological-analysis-of-vegetation-patterns
-First created on 13-02-2023
-Author: Yuwen Pang (yuwen.pang@helsinki.fi)
+- First created on 13-02-2023
+- Author: Yuwen Pang (yuwen.pang@helsinki.fi)
 
 # 1 Objectives
 This projects aims to explore vegetation community patterns with ecological analysis, including ordination and fuzzy c-mean clustering.
